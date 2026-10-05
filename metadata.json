@@ -1,0 +1,7 @@
+{
+  "name": "NEXUS — Asistente Académico con RAG e IA",
+  "description": "Asistente inteligente con arquitectura RAG para el Instituto INDEL. Responde basándose exclusivamente en documentos oficiales y cita sus fuentes exactas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
